@@ -1,2 +1,2 @@
 My first readme
-Coding is great
+Coding is awesome!
